@@ -1,0 +1,66 @@
+.container{
+    margin: 0;
+    padding: 0;
+    border: 10px solid black;
+    border-radius: 25px;
+} 
+#container2
+{
+    border-bottom:9px solid black; 
+}
+
+h2{
+    text-align: center;
+}
+
+#section p{
+    text-align:center;
+}
+.text-danger{
+    font-weight: bolder;
+    
+}
+.text-dark{
+    font-weight: bolder;
+    text-align: start;
+}
+.col,.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+    border:3px solid black;
+}
+.fs-4{
+    /* font-family:'Times New Roman', Times, serif; */
+    font-family: stencil;
+    font-weight: bolder;
+}
+#style p{
+    font-family:fantasy;
+    font-weight: bold;
+}
+
+.barcode{
+   margin-top: -22px;
+   margin-bottom:-40px;
+}
+
+#P_REF{
+    margin-left:-70px ;
+}
+
+.table{
+    font-size: 13px;
+}
+
+#signature{
+
+    margin-top: 50px;
+    margin-bottom: -80px;
+    margin-left: -80px;
+}
+
+#footer{
+    margin-left: 17px;
+}
+
+
+
+
